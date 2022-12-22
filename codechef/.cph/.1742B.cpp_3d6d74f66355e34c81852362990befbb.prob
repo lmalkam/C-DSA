@@ -1,0 +1,1 @@
+{"name":"Local: 1742B","url":"e:\\codes\\codechef\\1742B.cpp","tests":[{"id":1666877561568,"input":"3\n4\n1 1 1 1\n5\n8 7 1 3 4\n1\n5\n","output":"NO\nYES\nYES\n"},{"id":1666878953918,"input":"","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\codes\\codechef\\1742B.cpp","group":"local","local":true}
